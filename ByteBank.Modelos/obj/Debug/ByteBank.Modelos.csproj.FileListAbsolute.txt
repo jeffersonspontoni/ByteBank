@@ -1,0 +1,5 @@
+D:\C#\Alura\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+D:\C#\Alura\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+D:\C#\Alura\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+D:\C#\Alura\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+D:\C#\Alura\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

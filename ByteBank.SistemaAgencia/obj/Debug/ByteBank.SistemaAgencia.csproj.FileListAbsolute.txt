@@ -1,0 +1,9 @@
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csprojAssemblyReference.cache
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+D:\C#\Alura\ByteBank\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
